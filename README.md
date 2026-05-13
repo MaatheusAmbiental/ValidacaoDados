@@ -1,4 +1,4 @@
-# Validador Hidrológico Pro 🌊
+# Validador de Dados Hidrológico Pro 🌊
 
 markdown
 ![Interface Principal](screenshots/main_view.png)
