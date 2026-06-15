@@ -1,6 +1,5 @@
 # Validador de Dados Hidrológico Pro 🌊
 
-markdown
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![SQL Server](https://img.shields.io/badge/database-SQL_Server-red.svg)
