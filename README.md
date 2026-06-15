@@ -3,6 +3,9 @@
 markdown
 ![Interface Principal](screenshots/main_view.png)
 ![Relatório de Decisão](screenshots/report_view.png)
+![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![SQL Server](https://img.shields.io/badge/database-SQL_Server-red.svg)
 
 O **Validador Hidrológico Pro** é uma ferramenta de desktop desenvolvida em Python para automação, auditoria e sincronização de dados hidrológicos (Chuvas, Cotas e Vazões). O sistema realiza a comparação entre arquivos de importação e a base de dados permanente do SQL Server, permitindo uma gestão eficiente e segura dos dados.
 
@@ -34,6 +37,8 @@ pip install pandas customtkinter pyodbc python-dotenv openpyxl
 
 ⚙️ Configuração
 Clone o repositório.
+
+Necessário ter o ODBC Driver for SQL Server (pyodbc)
 
 Configure o arquivo .env na raiz do projeto com as informações do seu servidor:
 
