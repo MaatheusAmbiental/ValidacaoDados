@@ -1,0 +1,8 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+error_log.txt
+dist/
+build/
+*.spec
